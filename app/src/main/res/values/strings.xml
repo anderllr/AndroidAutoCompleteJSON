@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AutoCompleteJSON</string>
+    <string name="labelText">Select your brand car</string>
+    <string name="autoCompleteText">My Car is</string>
+</resources>
